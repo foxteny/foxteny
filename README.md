@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![skill](https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white)]
 
 ## 논문
-[![](https://img.shields.io/badge/?style=flat-square&logo=로고이름&logoColor=로고색)]([(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)
+[자이로 센서 데이터를 활용한 양치 위치 추정 및 비지도 학습 클러스터링을 통한 검증](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11646290)
